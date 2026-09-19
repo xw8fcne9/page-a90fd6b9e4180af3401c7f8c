@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "c1a96d11543479ab89056cca",
+  "owner": "xw8fcne9",
+  "repo": "page-a90fd6b9e4180af3401c7f8c",
+  "title": "森林互联(7KM)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a90fd6b9e4180af3401c7f8c",
+      "a": "森林互联(7KM)",
+      "b": "免费clash订阅",
+      "entity": "森林互联(7KM)",
+      "brand": "森林互联(7KM)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "346e10cb21eef50c27d9b7dbd9472e70b93ed1ccebdc0659c8a9b2393efd7a56",
+      "content": {
+        "primary_entity": "森林互联(7KM)",
+        "keyword1": "森林互联(7KM)",
+        "keyword2": "免费clash订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应的 Clash 客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLOSING_TEXT": "选定套餐并完成订阅导入，即可开始使用森林互联(7KM)的加速服务。",
+          "AI_CLOSING_TITLE": "开始配置你的订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，分别对应 100GB、300GB 和 1000GB 月流量，支持 3 至 20 台设备同时在线。用户可根据日常设备数量与流量需求选择合适档位，再按 Windows、macOS、Android、iOS 等平台文档完成 Clash 客户端订阅导入，实现流媒体与游戏线路加速。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三个角度快速了解选择要点。",
+          "AI_FEATURES_TITLE": "选择森林互联(7KM)的要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 月流量适合轻度使用，旗舰版 300GB 覆盖日常流媒体与游戏，团队版 1000GB 满足多设备共享。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，建议按实际常用终端数量选择对应档位。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供按年付方案，年付价格分别为 ¥150、¥350 和 ¥850，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "按流量需求选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数量选档位",
+          "AI_FEATURE_TITLE_3": "按订阅周期定预算",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "三步完成使用准备",
+          "AI_HERO_INTRO": "森林互联(7KM)提供基础版、旗舰版与团队版三档加速套餐，月流量从 100GB 到 1000GB，可满足单设备轻量使用到多设备团队协作的不同场景。搭配 Clash 客户端导入订阅，即可按需使用流媒体与游戏线路。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案最低 ¥150 起",
+          "AI_PLANS_INTRO": "基础版适合轻度用户，旗舰版平衡流量与设备数，团队版面向多终端共享场景。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据月流量和常用设备数量，在基础版、旗舰版与团队版中选定一档套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限与线路特性，确认是否满足日常使用需求。",
+          "AI_STEP_TEXT_3": "按对应系统客户端的配置文档导入订阅，完成 Clash 客户端的节点加载。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "森林互联(7KM) 套餐与订阅指南",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，适合手机或电脑单人多设备使用。旗舰版支持5台，团队版支持20台，多设备家庭或办公环境建议选更高档位。",
+          "AI_FAQ_ANSWER_2": "可以。按年付只需支付十个月费用，基础版¥150/年，旗舰版¥350/年，团队版¥850/年，比按月购买更划算。",
+          "AI_FAQ_ANSWER_3": "基础版提供普通线路节点，旗舰版包含全节点原生流媒体解锁与IPLC专线游戏加速优化，团队版使用VIP专属高带宽节点。",
+          "AI_FAQ_ANSWER_4": "先确认设备数量与月流量需求，再参照客户端文档下载对应版本，导入订阅后即可连接使用，无需额外配置。",
+          "AI_FAQ_ANSWER_5": "7KM支持7x24优先工单支持，旗舰版与团队版可优先响应，团队版还配有专属客户经理跟进需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "按年付和按月付费用有区别吗？",
+          "AI_FAQ_QUESTION_3": "不同套餐的节点线路有什么不同？",
+          "AI_FAQ_QUESTION_4": "第一次使用需要做什么准备？",
+          "AI_FAQ_QUESTION_5": "遇到问题怎么获得支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "4fb48210485d11885a03e2f3f49ab5e5f69dae57e0e22a2082366612a525fbc0",
+    "sitemap.xml": "856173657bfb8f81de0a5451022bc1dff6c65c46eaf5d423507107bfb5dcd085",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "3c37535f319a2b9f1ae0897dde164cd85413a4c1fbd520a5f3428927dfe6a0a0"
+}
